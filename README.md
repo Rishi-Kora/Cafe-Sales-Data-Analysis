@@ -20,6 +20,7 @@ In this repository, I have taken COVID 19 data from Kaggle and I have done:
 Identifying and reporting missing values in the cleaned dataset.<br>
 Visualizing sales trends over time using a line plot.<br>
 Analyzing the popularity of items sold using a count plot.<br>
+Examining the distribution of payment methods using a count plot.<br>
 
 Feel free to download the code and data.
-Examining the distribution of payment methods using a count plot.
+
